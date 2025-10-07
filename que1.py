@@ -1,4 +1,4 @@
-print("First problem")
+print("First problem , problem number 1")
 
 # what I had wrote here is a brute force mehod , which I had think at first I saw the problem , but it have a better solution in O(N)
 # 
