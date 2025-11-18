@@ -9,4 +9,5 @@ def reverse(arr,left , right):
     return arr
 
 print(reverse([1,2,5,8,7,6,9,8,3],2,6))
+print(reverse([1,2,5,8,7,6,9,8,3],0,8))
     
